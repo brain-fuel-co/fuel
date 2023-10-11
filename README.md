@@ -19,4 +19,4 @@ An artist working on textures should be able to use a text prompt to generate a 
 
 
 ### Marketplace
-It is not feasible to create a proc gen tool suite that addresses every game developer's needs. However, it is feasible to create a procedural generation marketplace, where mod creators and developers can createa and share their tools for procedural generation. This implies ease of creating those tools.
+It is not feasible to create a proc gen tool suite that addresses every game developer's needs. However, it is feasible to create a procedural generation marketplace, where mod creators and developers can createa and share their tools for procedural generation. This implies the ability to interface with independently developed tools on a program level, which requires modular coding. 
