@@ -16,3 +16,7 @@ For example, suppose we're generating a game world. The most gross layer would b
 
 #### UX
 An artist working on textures should be able to use a text prompt to generate a texture, which they can then perfect by hand. This should also be available at other levels of abstraction, e.g. procedurally generating a town or a single building. Once a town is generated, we only generate things with higher resolution than a town, in keeping with CBB.
+
+
+### Marketplace
+It is not feasible to create a proc gen tool suite that addresses every game developer's needs. However, it is feasible to create a procedural generation marketplace, where mod creators and developers can createa and share their tools for procedural generation. This implies ease of creating those tools.
