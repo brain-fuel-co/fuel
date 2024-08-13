@@ -17,6 +17,17 @@ For example, suppose we're generating a game world. The most gross layer would b
 #### UX
 An artist working on textures should be able to use a text prompt to generate a texture, which they can then perfect by hand. This should also be available at other levels of abstraction, e.g. procedurally generating a town or a single building. Once a town is generated, we only generate things with higher resolution than a town, in keeping with CBB.
 
-
 ### Marketplace
 It is not feasible to create a proc gen tool suite that addresses every game developer's needs. However, it is feasible to create a procedural generation marketplace, where mod creators and developers can createa and share their tools for procedural generation. This implies the ability to interface with independently developed tools on a program level, which requires modular coding. 
+
+## Collaborative Document Editing
+A Quora answer I read recently by a professional writer talked about how he used Google Docs to do most of his writing. Google Docs does not have a great interface and it's not especially fast or convenient. The only reason he uses it is because it makes collaboration easier.
+
+Google Docs was constructed based on older word processors, such as Microsoft Word. Much of the unwieldiness comes from this.
+
+A collaborative document editor could be quite useful. Minimal typesetting and formatting facilities. You can use some other piece of software for that. Just a collaborative document editor set up to make collaboration as painless as possible. Make sure it can export in formats that typesetting and formatting software can use.
+
+## AI Workout Critic
+There are plenty of workout apps for keeping track of exercise. But when it comes time to critique your workout or correct your form, you still have to post a video of yourself on Reddit or something.
+
+Unless we can train an AI to look at a video of you working out and tell you what you're doing wrong, i.e. not getting low enough on a deadlift.
