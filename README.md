@@ -31,3 +31,9 @@ A collaborative document editor could be quite useful. Minimal typesetting and f
 There are plenty of workout apps for keeping track of exercise. But when it comes time to critique your workout or correct your form, you still have to post a video of yourself on Reddit or something.
 
 Unless we can train an AI to look at a video of you working out and tell you what you're doing wrong, i.e. not getting low enough on a deadlift.
+
+## 3D Printing That Doesn't Suck
+Despite being a raging libtard, Franklin Veaux makes a [good point](https://qr.ae/p2CnWz) about 3D printing. There are two main issues therein:
+
+- 3D printing interfaces suck. It remains a niche hobby largely because you have to have an engineering mindset, if not an engineering background, to use one. We want to make a plug-n-play interface. Download a model. The software slices it for you, does all the hard work, and just fucking prints it. In order to do this, we would probably need to produce our own hardware/firmware/etc, and set it up to play nicely with our proprietary software.
+- 3D printing mechanics suck. I haven't looked into it, but I suspect this is a body of mechanical/electrical engineering puzzles. There's not a ton of money in 3D printing (yet), so huge teams of mechanical engineers have not been employed to dissolve all these issues. Solving said issues for 3D printing *simpliciter* would be difficult. But if we just wanted to build an affordable consumer unit that works well, that would be more feasible. We could, for example, set it up so that the parts are easy to replace, and the parts are proprietary, so you can buy them from us when they break.
