@@ -37,3 +37,12 @@ Despite being a raging libtard, Franklin Veaux makes a [good point](https://qr.a
 
 - 3D printing interfaces suck. It remains a niche hobby largely because you have to have an engineering mindset, if not an engineering background, to use one. We want to make a plug-n-play interface. Download a model. The software slices it for you, does all the hard work, and just fucking prints it. In order to do this, we would probably need to produce our own hardware/firmware/etc, and set it up to play nicely with our proprietary software.
 - 3D printing mechanics suck. I haven't looked into it, but I suspect this is a body of mechanical/electrical engineering puzzles. There's not a ton of money in 3D printing (yet), so huge teams of mechanical engineers have not been employed to dissolve all these issues. Solving said issues for 3D printing *simpliciter* would be difficult. But if we just wanted to build an affordable consumer unit that works well, that would be more feasible. We could, for example, set it up so that the parts are easy to replace, and the parts are proprietary, so you can buy them from us when they break.
+
+## AI Image Editor
+
+- Most of the stuff I want to do with a photo editor is very simple. Take two pictures and stick them side-by-side. Crop an image. Rotate something. Desaturate. _These are all things that can be summed up in a simple English sentence_.
+- Make an AI image editor that has a suite of basic point-and-click tools. But – here's the moat – these tools are either used or "summoned" by an English sentence, typed or spoken.
+- For example, "I want to crop this. Show me the crop tool." That sentence brings up a crop tool, which you can use with your mouse and keyboard.
+- On the other hand, "I want to put two pictures side by side and make them the same size." And then it will simply ask you to select two pictures from your computer. It will do the work for you.
+- The premise here is that _most people neither want nor need photoshop_. I find myself Googling "put two images side by side" because I don't feel like downloading GIMP just to do some simple shit.
+- In the end, the best interface would be dialogue-based. Here's an example: I give the computer an input – say, a picture I want to edit. I ask for a crop tool. I crop the picture. Then I say, "Okay, now reverse it horizontally. Now make it black-and-white. Now put a green monochrome over it. Now sharpen it a little. Increase the contrast just a hair. Thank you!"
